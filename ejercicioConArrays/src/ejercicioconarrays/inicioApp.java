@@ -10,6 +10,9 @@ public class inicioApp {
         return contador;
     }
 
+    
+    
+    
     void mostrarResultado(String frase) {
         int contador = 0;
         for (int i = 0; i < letras.length; i++) { //Recorro el array y muestro todo.
